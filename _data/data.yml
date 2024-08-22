@@ -1,0 +1,279 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ori Tabac
+    tagline: Senior Sales Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ori@tabac.me
+    phone: +972-54-7768107
+    timezone: Asia/Jeruslaem # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship:
+    website: https://tabac.me # Include the full website URL, including "http://" or "https://".
+    linkedin: ori-tabac-9953b645
+    xing: 
+    github: tabacman86
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@tabacman86'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # TO ADD LINK HERE
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Hebrew
+          level: Native
+
+        - idiom: French
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Swimming
+          link:
+
+        - item: Family
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Seasoned Senior Sales Engineer with over 15 years of experience in endpoints, servers, networking and application security.
+      Expertise in solutions engineering with a proven track record of driving successful client engagements and delivering tailored solutions across diverse industries.
+education:
+    title: Education
+    info:
+      - degree: B.A Management and CS
+        university: The Open University Of Israel
+        time: 2018-2024
+        details:
+        # - degree: BSc in Applied Mathematics
+      #   university: Bristol University
+      #   time: 2007 - 2011
+      #   details: |
+      #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #     pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
+
+experiences:
+    title: Experiences
+    info:
+      - role: Senior Sales Engineer
+        time: 2021 - Present
+        company: Mend.io (Formerly WhiteSource)
+        details: |
+            - Managing end-to-end sales processes from Demo to Implentation
+            - Develop demos and value proposition workflows
+            - Onboard new customers and drive them to success
+            - Working with existing customer to leverage product value
+      - role: Sales Engineer
+        time: 2020 - 2019
+        company: SecuredTouch Ltd.
+        details: |
+            - Managing various types of POCs & Pilots
+            - Creating and maintaining product demos with prospects worldwide
+            - Manage and execute Deployments, Integrations & support globally
+            - Delivering detailed RFPs/RFIs for prospects
+            - Managing internal processes with driven customer success orientation 
+      - role: OEM Program Manager
+        time: 2019 - 2020
+        company: Deep Instinct LTD.
+        details: |
+            - Accountability of most critical projects of the business
+            - Provide R&D deliveries on time with top performance
+            - Engage with OEM vendor for change managements, project follow up and maximum satisfaction
+            - Defining internal processes and procedures in order to provide best delivery
+      - role: Solution Engineer  
+        time: 2017 - 2019
+        company: Deep Instinct LTD.
+        details: |
+            - Working in APAC and EMEA regions with managing valued POCs to the business around the globe. 
+            - Handling all technical aspects of a sales process
+            - Solving complex issues for prospects and customers
+      - role: Professional Services and Customer Success
+        time: 2016 - 2017
+        company: Deep Instinct LTD.
+        details: |
+            - Perform POCs, Pilots and Demos of the product with prospects worldwide
+            - Manage and execute Deployments, Integrations & support globally
+            - Delivering detailed RFPs/RFIs for prospects
+            - Running and supporting complex production environments.
+            - Analyze and identify areas of weakness or gaps for continuous improvement
+            - Define customers' critical points and manage them in the organization until solving customer's point
+            - Creating and maintaining scripts for PS team.
+      - role: Senior Technical Support Engineer
+        time: 2012 - 2016
+        company: Cellebrite LTD.
+        details: |
+            - Management of strategic customer accounts such as Orange and Vodafone
+            - Managing Demos, POC, ATP/FTP processes for existing customers
+            - Performing training on customers' sites
+            - Manage escalations for customer issues with R&D and Product Management.
+            - Version Release handling
+      - role: Support Team Leader
+        time: 2011 - 2012
+        company: Ness Technologies
+        # details: 
+      - role: Technical Support Team Leader
+        time: 2008 - 2011
+        company: 012Smile
+        # details: 
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CCME
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at.
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux, Windows, Mac
+        level: 100% 
+
+      - name: Git, Jira
+        level: 100%
+
+      - name: Cloud Computing
+        level: 80%
+      
+      - name: Virtualization and Docker
+        level: 85%
+
+      - name: Kuberneters
+        level: 50% 
+        
+      - name: Python Scripting
+        level: 80%
+
+      - name: Bash
+        level: 70%
+
+      - name: Powershell
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
