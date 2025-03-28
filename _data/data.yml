@@ -46,7 +46,6 @@ sidebar:
       title: Interests
       info:
         - item: Swimming
-          link:
         - item: Football
         - item: Family
           link:
@@ -67,8 +66,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Founding Solutions Engineer
+        time: 2025 - Present
+        company: Prompt Security, GenAI Security Platform
       - role: Senior Sales Engineer
-        time: 2021 - Present
+        time: 2021 - 2025
         company: Mend.io (Formerly WhiteSource)
         details: |
             - Managing end-to-end sales processes from Demo to Implentation
