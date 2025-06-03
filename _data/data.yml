@@ -140,26 +140,26 @@ skills:
       - name: AppSec
         level: 100%
 
+      - name: GenAI Security
+        level: 95%
+
       - name: Cloud Computing
-        level: 80%
+        level: 95%
       
       - name: Virtualization and Docker
         level: 95%
 
-      - name: Kuberneters
-        level: 70%
-
-      - name: GenAI Security
-        level: 80%
-        
       - name: Python Scripting
+        level: 90%
+        
+      - name: Kuberneters
         level: 80%
 
       - name: Bash
-        level: 70%
+        level: 80%
 
       - name: Powershell
-        level: 50%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
