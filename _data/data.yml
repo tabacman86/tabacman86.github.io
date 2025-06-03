@@ -147,7 +147,10 @@ skills:
         level: 95%
 
       - name: Kuberneters
-        level: 50% 
+        level: 70%
+
+      - name: GenAI Security
+        level: 80%
         
       - name: Python Scripting
         level: 80%
